@@ -2,8 +2,8 @@
 // script to update local version of Google analytics script
 
 // Remote file to download
-$remoteFile = 'http://www.google-analytics.com/ga.js';
-$localfile = 'ENTER YOUR ABSOLUTE PATH TO THE FILE HERE';
+$remoteFile = 'http://www.google-analytics.com/analytics.js';
+$localfile = '/srv/users/deevop/apps/gajs/gajs/ga.js';
 //For Cpanel it will be /home/USERNAME/public_html/ga.js
 
 // Connection time out
